@@ -12,5 +12,6 @@ console.log(name);
  console.table([name,email,accountpass,accountcity,age])
 
  /*
-
+prefer not use var
+beacuse of issue in block scope and global scope
  */

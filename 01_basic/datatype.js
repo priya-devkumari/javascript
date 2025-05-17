@@ -11,4 +11,6 @@ let login=true
 
 // object
 console.log(typeof "priya");
+console.log(typeof age);
+
 
