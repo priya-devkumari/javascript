@@ -13,4 +13,7 @@ let login=true
 console.log(typeof "priya");
 console.log(typeof age);
 
+let score="33"
+console.log(typeof(score) )
+
 
