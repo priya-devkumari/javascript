@@ -15,10 +15,23 @@ if (isLoggedIn=="login") {
     
 // }
 
-const balance =700;
+const balance =500*2;
 // if (balance > 500) console.log("test"),console.log("test2");
 
 if (balance < 500) {
+    console.log(`less than 500`);
+    
+    
+}else if(balance>500){
+    console.log(`greater than 500`);
+    
+}else if (balance==500) {
+    console.log(`equals to 500`);
+    
+    
+} else {
+    console.log(`not match condition
+        `);
     
 }
 
